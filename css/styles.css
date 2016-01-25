@@ -1,0 +1,7 @@
+#show-task {
+  display: none;
+}
+
+a.close {
+  float: right;
+}
