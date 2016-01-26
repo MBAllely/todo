@@ -8,10 +8,13 @@ a.close {
 
 .jumbotron {
   text-align: center;
+  background-image: url(http://blog.psicoactiva.com/wp-content/uploads/2015/05/perfeccionismo1.jpg);
+  background-repeat: repeat-x;
 }
 
 body {
-
+  background-image: url(http://free-3d-textures.com/LargeBackgrounds/yellowlinedpad.jpg);
+  /*background-size: cover;*/
   text-align: left;
   font-family: monospace;
   font-weight: bolder;
