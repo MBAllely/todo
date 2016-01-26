@@ -29,9 +29,9 @@ $(document).ready(function() {
       $(".deadline").text(newTask.newDeadline);
 
     });
-    $("body").click('#tasks a', function() {
+    $("body").on('click', '#tasks a', function() {
       $(this).closest("li").remove();
-      $(this).siblings.remove();
+      
     });
   });
 });
