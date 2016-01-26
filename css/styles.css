@@ -5,3 +5,20 @@
 a.close {
   float: right;
 }
+
+.jumbotron {
+  text-align: center;
+}
+
+body {
+
+  text-align: left;
+  font-family: monospace;
+  font-weight: bolder;
+}
+
+.iframe {
+  display: block;
+  margin-top: 100%;
+  margin-bottom: 100%;
+}
